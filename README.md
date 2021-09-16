@@ -2,7 +2,7 @@
 Hola me llamo Juan Antonio,
 Os vais a decir un poco sobre mi, tengo 20 años vengo del primer año de SMX que me gusto mucho ya que me hizo ver la tecnologia de otro modo.
 
-#Hobbies
+# Hobbies
 - __Leer libros__
 - __Jugar a diversos videojuegos__
 - __Ir a la montaña a pasear__
@@ -10,14 +10,14 @@ Os vais a decir un poco sobre mi, tengo 20 años vengo del primer año de SMX qu
 - __Ver series o Peliculas__
 
 
-##Recomendaciones de Libros
+## Recomendaciones de Libros
 * La ciudad perdida
 * Brisinger
 * La ciudad oscura
 * 1947
 
 
-##Recomendaciones de Series/Peliculas
+## Recomendaciones de Series/Peliculas
 * Hanna
 * La Casa De Papel
 * Titan
